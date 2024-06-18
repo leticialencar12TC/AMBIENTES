@@ -1,0 +1,25 @@
+*{
+    width: 1280px;
+    height: 720px;
+    top: -360px;
+    left: -640px;
+    gap: 0px;
+    opacity: 0px;
+    color: background: rgba(255, 255, 255, 1);
+}
+
+
+body {
+    justify-content: center;
+    align-items: center;
+}
+
+img{
+    width: 348px;
+height: 223px;
+left: 474px;
+gap: 0px;
+opacity: 0px;
+align-items: center;
+
+}
